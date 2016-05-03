@@ -1,4 +1,4 @@
-defmodule Phoenix.Mixfile do
+defmodule PremadePhoenix.Mixfile do
   use Mix.Project
 
   def project do
